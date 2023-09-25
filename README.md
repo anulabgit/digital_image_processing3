@@ -6,7 +6,8 @@
 코드를 사용후 이미지<br>
 ![image](https://github.com/anulabgit/digital_image_processing3/assets/127391777/c60fc238-a253-47c7-936c-c37d4dc8cdf9)
 
-소감<br>
+-소감-<br>
+
 김형진<br>
 이미지를 쉽게 돌려 이때까지 제대로 된 원리를 모르고 있었습니다. <br>
 그런데 요번에 기울어진 문서영상을기하학적 변환하기 위해 행렬을 통해 반듯하게 만들 수 있다는 사실을 알게 되었습니다.<br>
